@@ -44,10 +44,7 @@ hr {
     padding:5px 4px;
 }
 
-.no-bullet{
-    list-style: none;
 
-}
 .show-inline{
     display: inline;
     padding: 0px 20px;
@@ -92,15 +89,9 @@ hr {
     color:var(--primary-color);
 }
 
-.section {
-    padding: 2em;
 
 }
 
-.section h1{
-    text-align: center;
-
-}
 
 .ow{
 background-color:var(--off-white);
